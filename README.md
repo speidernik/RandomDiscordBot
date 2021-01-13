@@ -1,6 +1,6 @@
 # RandomDiscordBot
 
-appsettings.json exmaple
+appsettings.json example
 
 {<br />
   "prefix": "", <br />
