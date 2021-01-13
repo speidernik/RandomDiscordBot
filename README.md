@@ -2,17 +2,17 @@
 
 appsettings.json exmaple
 
-{
-  "prefix": "",
-  "token": "",
-  "riotAPI": "",
-  "dbServer": "",
-  "dbUser": "",
-  "dbPassword": "",
-  "dbName": "",
-  "dbPort": "",
-  "dbConnectTimeout": "",
-  "lavaPassword": ""
+{<br />
+  "prefix": "", <br />
+  "token": "", <br />
+  "riotAPI": "", <br />
+  "dbServer": "", <br />
+  "dbUser": "", <br />
+  "dbPassword": "", <br />
+  "dbName": "", <br />
+  "dbPort": "", <br />
+  "dbConnectTimeout": "", <br />
+  "lavaPassword": "" <br />
 }
 
 Changelog 
